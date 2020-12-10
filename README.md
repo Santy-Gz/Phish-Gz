@@ -22,3 +22,6 @@
 ## Followme :
 [![Github](https://img.shields.io/badge/Github-Santy--Gz-aqua?style=for-the-badge&logo=github)](https://github.com/Santy-Gz)
 
+#### Nota
+
+Si vas a copiar deja creditos 🙂
