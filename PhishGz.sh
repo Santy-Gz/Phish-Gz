@@ -1,10 +1,5 @@
 #!/usr/bin/env bash
-#
-# Obfuscate by @Santy-Gz
-# Contacta https://t.me/CesarGray
-# Channel: https://www.youtube.com/channel/UCjs0N8PbEo-se0r_4O_svNQ
-#
-#
+
 Santy-Gz=$(mktemp)
 base64 -d  >${Santy-Gz}<<DIXIE
 IyEvYmluL2Jhc2gKCnRyYXAgJ3ByaW50ZiAiXG4iO3N0b3A7ZXhpdCAxJyAyCnRyYXAgdXNlcl9p
