@@ -10,8 +10,8 @@
 
 <br>
 <p align="center">
-<img width="40%" src="https://raw.githubusercontent.com/htr-tech/rr/images/zphisher1.png"/>
-<img width="42%" src="https://raw.githubusercontent.com/htr/master/images/zphisher02.png"/>
+<img width="40%" src="https://github.com/Santy-Gz/Phish-Gz/blob/main/img/PhishGz1.jpeg"/>
+<img width="42%" src="https://github.com/Santy-Gz/Phish-Gz/blob/main/img/PhishGz2.jpeg"/>
 </p>
 
 ## Opciones de tunel :
