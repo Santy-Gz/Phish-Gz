@@ -20,7 +20,7 @@
 ## Opciones de tunel :
 #### > Localhost
 #### > NGROK Hotspot
-#### > NGROK No Hotspot
+#### > NGROK Sin Hotspot
 
 ## Followme :
 [![Github](https://img.shields.io/badge/Github-Santy--Gz-aqua?style=for-the-badge&logo=github)](https://github.com/Santy-Gz)
