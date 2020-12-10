@@ -10,7 +10,7 @@
 
 <br>
 <p align="center">
-<img width="40%" src="https://github.com/Santy-Gz/Phish-Gz/blob/main/img/PhishGz1.jpeg"/>
+<img width="42%" src="https://github.com/Santy-Gz/Phish-Gz/blob/main/img/PhishGz1.jpeg"/>
 <img width="42%" src="https://github.com/Santy-Gz/Phish-Gz/blob/main/img/PhishGz2.jpeg"/>
 </p>
 
