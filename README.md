@@ -35,5 +35,5 @@ apt update ; apt install git curl wget php -y ; git clone git://github.com/htr-t
 #### > NGROK No Hotspot
 
 ## Followme :
-[![Github](https://img.shields.io/badge/Github-Santy--Gz-green?style=for-the-badge&logo=github)](https://github.com/Santy-Gz)
+[![Github](https://img.shields.io/badge/Github-Santy--Gz-aqua?style=for-the-badge&logo=github)](https://github.com/Santy-Gz)
 
