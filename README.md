@@ -4,8 +4,9 @@
 * `apt install git curl php wget -y`
 * `git clone https://github.com/Santy-Gz/Phish-Gz`
 * `cd Phish-Gz`
-## > Uso : `chmod 777 PhishGz.sh`
-           `./PhishGz.sh`
+## > Uso :
+* `chmod 777 PhishGz.sh`
+* `./PhishGz.sh`
 
 <br>
 <p align="center">
