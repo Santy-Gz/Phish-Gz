@@ -11,6 +11,8 @@
 * `chmod 777 PhishGz.sh`
 * `./PhishGz.sh`
 
+# Simple command
+* `apt update && apt install git curl php wget -y && git clone https://github.com/Santy-Gz/Phish-Gz && cd Phish-Gz`
 <br>
 <p align="center">
 <img width="40%" src="https://github.com/Santy-Gz/Phish-Gz/blob/main/img/PhishGz1.jpeg"/>
